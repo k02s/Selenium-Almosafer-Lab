@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-23T02:30:52 EET" name="Default suite" finished-at="2023-09-23T02:30:57 EET" duration-ms="4940">
+    <groups>
+    </groups>
+    <test started-at="2023-09-23T02:30:52 EET" name="Default test" finished-at="2023-09-23T02:30:57 EET" duration-ms="4940">
+      <class name="Lab_01">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Lab_01@66eb985d]" started-at="2023-09-23T02:30:52 EET" name="beforeTest" finished-at="2023-09-23T02:30:52 EET" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="test()[pri:0, instance:Lab_01@66eb985d]" started-at="2023-09-23T02:30:52 EET" name="test" finished-at="2023-09-23T02:30:56 EET" duration-ms="4670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:Lab_01@66eb985d]" started-at="2023-09-23T02:30:56 EET" name="afterTest" finished-at="2023-09-23T02:30:57 EET" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Lab_01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
